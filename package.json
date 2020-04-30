@@ -24,7 +24,7 @@
     "chart": "^0.1.2",
     "chart.js": "^2.8.0",
     "currency-formatter": "^1.5.5",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "moment": "^2.24.0",
     "primeicons": "^2.0.0",
     "primeng": "^8.0.4",
